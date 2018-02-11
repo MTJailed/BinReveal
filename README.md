@@ -1,7 +1,7 @@
 # BinReveal
 > A forensic project for detecting file signatures in a file.
 
-<b>Build status: </b><span style="color: white; background: green;">Beta</span>
+<b>Build status: </b> Early beta
 
 
 ## Installation
