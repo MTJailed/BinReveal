@@ -42,7 +42,7 @@ Yes in the future there will be a Linux version written in Java as well.
 ## Meta
 
 Developer: Sem Voigtländer
-Distributed under the MIT General Public license. See ``LICENSE`` for more information.
+Distributed under the MIT License. See ``LICENSE`` for more information.
 
 ## Contributing
 
